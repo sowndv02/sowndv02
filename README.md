@@ -28,7 +28,7 @@
   
 
   <a href="#">
-  <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowncookie&hide_progress=false&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowncookie&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 
   <a href="#" title="SownCookie">
