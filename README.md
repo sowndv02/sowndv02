@@ -28,11 +28,11 @@
   
 
   <a href="#">
-  <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowncookie&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowndv02&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 
   <a href="#" title="SownCookie">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=sowncookie&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=sowndv02&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
