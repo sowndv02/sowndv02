@@ -21,7 +21,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=.NET&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
