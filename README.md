@@ -32,7 +32,7 @@
   </a>
 
   <a href="#" title="SownCookie">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=sowndv02&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=sowndv02&show_icons=true&theme=dark" />
   </a>
 </div>
 
