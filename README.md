@@ -25,6 +25,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=csharp&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
