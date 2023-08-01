@@ -28,7 +28,7 @@
   
 
   <a href="#">
-  <img width="100%" height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowndv02&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="100%" height="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowndv02&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 
 </div>
