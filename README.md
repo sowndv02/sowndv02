@@ -19,8 +19,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=#512BD4" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=#5C2D91" alt="git logo" title="git" height="25" /></span>
